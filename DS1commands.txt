@@ -1,0 +1,1 @@
+.\bin\OpenPoseDemo.exe --video C:\Users\sphere\Downloads\OpenPose_demo_1.0.1\OpenPose_demo_1.0.1\DS1.MOV --write_keypoint_json C:\Users\sphere\Downloads\OpenPose_demo_1.0.1\OpenPose_demo_1.0.1\DS1
