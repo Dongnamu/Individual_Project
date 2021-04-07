@@ -1,6 +1,6 @@
 # A Multi-Target Prototype Exercise Tracker for the Gym Environment
 ## Introduction
-Aim of this project is to propose a new concept of exercise tracking by using an off-the-shelf camera to track individuals, recognise exercises and count repetitions in the gym environment.
+Aim of this project is to propose a new concept of exercise tracking by using an off-the-shelf camera to track individuals, recognise exercises and count repetitions in the gym environment. This project is done for the dissertation during Year 3 of Computer Science undergraduate course at University of Bristol.
 
 ## Methods
 ### Person Identification
